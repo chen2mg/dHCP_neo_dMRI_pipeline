@@ -1,10 +1,10 @@
 -----------------------------------------------
 dHCP neonatal dMRI data processing pipeline
-April, 2018
+Jan, 2020
 
-V 0.0.2: Processing pipeline used for the 2nd public release
+Processing pipeline used for the aicad research group
 -----------------------------------------------
-Automated pipeline to consistently analyse neonatal dMRI data from the developing Human Connectome Project (dHCP).
+This repository was originally owned by the developing Human Connectome Project (dHCP).
 
 If you use the pipeline in your work, please cite the following article:
 Bastiani, M., Andersson, J.L.R., Cordero-Grande, L., Murgasova, M.,
